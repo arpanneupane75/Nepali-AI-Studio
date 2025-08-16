@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.so
+*.egg-info/
+dist/
+build/
+
+# Environments
+.env
+.venv/
+venv/
+ENV/
+
+# Streamlit
+.streamlit/
+
+# Audio
+*.wav
+*.mp3
+
+# OS files
+.DS_Store
+Thumbs.db
