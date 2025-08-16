@@ -6,7 +6,6 @@
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -18,15 +17,6 @@
 - [License](#license)
 
 ---
-
-## Demo
-
-- Upload or record Nepali audio and instantly get the transcript.
-- Generate a concise summary of long spoken content.
-- Download both transcript and summary as text files.
-
----
-
 ## Features
 
 - **Nepali Speech-to-Text** using `iamTangsang/Wav2Vec2_XLS-R-300m_Nepali_ASR`.
@@ -43,7 +33,7 @@
 1. **Clone the repository**
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/arpanneupane75/Nepali-AI-Studio.git>
 cd Nepali_speech_recognition_Summarizer
 ```
 
